@@ -5,8 +5,8 @@
 
 ---
 # 釣りマップ
-https://www.google.com/maps/d/edit?hl=ja&authuser=0&mid=1pHnaaZR8XfzYfXGCu4kbeAe4IyE&ll=35.349499892301026%2C139.76826515000005&z=11
-<iframe src="https://www.google.com/maps/d/embed?mid=1pHnaaZR8XfzYfXGCu4kbeAe4IyE" width="640" height="480"></iframe>
+https://drive.google.com/open?id=1pHnaaZR8XfzYfXGCu4kbeAe4IyE&usp=sharing
+<iframe src="https://www.google.com/maps/d/embed?mid=1pHnaaZR8XfzYfXGCu4kbeAe4IyE" width="640" height="480"></iframe>  
 ---
 # 釣り基本
 ## 投げ釣り
