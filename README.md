@@ -17,6 +17,7 @@ https://drive.google.com/open?id=1pHnaaZR8XfzYfXGCu4kbeAe4IyE&usp=sharing
 要は｢仕掛けを遠くまで投げて｣｢底にいる魚｣を狙う釣りだということです。
 ```
 ## ちょい投げ釣り
+- [ちょい投げ釣り](http://umiduri-startguide.net/126)
 ```
 竿
 投げ竿（短いタイプ）。
