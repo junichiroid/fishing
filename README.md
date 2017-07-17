@@ -3,6 +3,7 @@
 - [キス釣り](#キス釣り)
 - [お台場周辺](#お台場周辺)
 - [投げサビキ](https://github.com/junichiroid/fishing/blob/master/%E6%8A%95%E3%81%92%E3%82%B5%E3%83%93%E3%82%AD.md)
+- [その他](https://github.com/junichiroid/fishing/blob/master/%E3%81%9D%E3%81%AE%E4%BB%96.md)
 ---
 # 釣りマップ
 https://drive.google.com/open?id=1pHnaaZR8XfzYfXGCu4kbeAe4IyE&usp=sharing
